@@ -1,0 +1,10 @@
+$(".image-one").click(function(){
+    $(".one").hide();
+});
+$(".image-two").dblclick(function(){
+    $(".two").fadeOut();
+});
+    $("body").css("color","gold");
+$(".image-three").click(function(){
+    $(".final").fadeIn();
+});
